@@ -64,12 +64,32 @@ AI-powered resume analysis project designed to evaluate resumes and provide stru
 </p>
 
 ---
+## 🌍 Open Source Contributions
 
-## 🔥 Contribution Streak
+Contributing to open-source projects through bug fixes, tests, accessibility improvements, and content updates.
+
+- 🔧 [Fix Lithuanian number-first section marker detection](https://github.com/speedyk-005/yasbd-lib/pull/330) — **yasbd-lib** — Merged
+- ♿ [Fix accessible names for POS quantity inputs](https://github.com/phpledger/phpledger/pull/65) — **phpledger** — Merged
+- 🧪 [Add adapter conformance suite](https://github.com/NU-BSE/frontend/pull/59) — **NU-BSE/frontend** — Merged
+- 🐛 [Fix CheckerboardDataset noise rejection](https://github.com/soran-ghaderi/torchebm/pull/327) — **torchebm** — Merged
+- 🇯🇵 [Add Japanese false-friend content](https://github.com/lingdojo/kana-dojo/pull/30367) — **Kana Dojo** — Merged
+- 📚 [Add Japanese cultural etiquette tip](https://github.com/lingdojo/kana-dojo/pull/30364) — **Kana Dojo** — Merged
+
+**6 merged pull requests** across multiple open-source projects.
+
+---
+
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Nagulanvelu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Nagulanvelu&theme=tokyonight&hide_border=false&border_radius=12" alt="GitHub Contribution Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagulanvelu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
 
 ---
 
