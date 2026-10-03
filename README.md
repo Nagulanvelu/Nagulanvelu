@@ -93,14 +93,66 @@ Contributing to open-source projects through bug fixes, tests, accessibility imp
 
 ---
 
-## 🧠 LeetCode
+## 🧠 LeetCode Progress
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Nagulanvelu?theme=dark&font=baloo&ext=heatmap" />
+
+### 🚀 129 Problems Solved
+
+| Difficulty | Solved |
+|---|---:|
+| 🟢 Easy | 117 |
+| 🟡 Medium | 11 |
+| 🔴 Hard | 1 |
+
+</p>
+
+### 📊 Coding Activity
+
+- ✅ **Problems Solved:** 129
+- 📝 **Submissions (Last Year):** 139
+- 📅 **Active Days:** 25
+- 🔥 **Maximum Streak:** 9 days
+- 🏆 **Badges:** 0
+- 🎯 **Currently Attempting:** 0
+
+### 🏷️ Main Topics
+
+`Array ×61` • `String ×53` • `Two Pointers ×22`
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-129%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
 </p>
 
 ---
 
+---
+
+## 💻 SkillRack Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Programs%20Solved-1502-6f42c1?style=for-the-badge" alt="Programs Solved" />
+  <img src="https://img.shields.io/badge/Tutorials-301-222222?style=for-the-badge" alt="Tutorials" />
+  <img src="https://img.shields.io/badge/Tracks-1194-222222?style=for-the-badge" alt="Tracks" />
+</p>
+
+### 📊 SkillRack Highlights
+
+- 💻 **Programs Solved:** 1,502
+- 📚 **Tutorials Completed:** 301
+- 🛤️ **Tracks:** 1,194
+- 🏅 **Rank:** 9,809
+- 🎓 **Badges:** 5
+
+<p align="center">
+  <a href="https://www.skillrack.com/">
+    <img src="https://img.shields.io/badge/SkillRack-Profile-00A8E8?style=for-the-badge" alt="SkillRack" />
+  </a>
+</p>
+
+---
 ## 🏆 Achievements & Learning
 
 - 🏅 NPTEL — Python for Data Science
