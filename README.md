@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/nagulan-profile.jpg" alt="Nagulan V" width="190" style="border-radius:50%;" />
+<p align="center">
+  <img src="nagulan-profile.jpg" alt="Nagulan V" width="190" />
+</p>
 
 👋 Hi, I'm Nagulan V
 Artificial Intelligence Student · Python Developer · Aspiring Data Scientist
